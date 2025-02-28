@@ -19,4 +19,4 @@ Welcome to **MyFirstMobileApp**, a React Native project designed to provide a sm
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/Jefe614/myfirstmobileapp-react-native.git
-cd myfirstmobileapp-react-native
+cd myfirstapp
